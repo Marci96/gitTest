@@ -1,0 +1,55 @@
+[33mcommit 007917466907a5ad0777c9b52ecd3a14d5e7c286[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Matt <schuldinerfanatic@gmail.com>
+Date:   Fri Jun 21 21:40:16 2019 +0200
+
+    Red is on the way
+
+[33mcommit c157a87f2896c5a3eb76912c4db969d860c82e53[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Matt <schuldinerfanatic@gmail.com>
+Date:   Fri Jun 21 12:54:20 2019 +0200
+
+    Marha jo ez a txt hahaha
+
+[33mcommit f7acd19985f79f95e28c88d94361306944207569[m
+Merge: ad91bdf 814aab6
+Author: Matt <schuldinerfanatic@gmail.com>
+Date:   Fri Jun 21 00:21:17 2019 +0200
+
+    Merge branch 'octofamily'
+
+[33mcommit ad91bdfbc58bc123f1db055b97aecf5d3856f6cf[m
+Author: Matt <schuldinerfanatic@gmail.com>
+Date:   Fri Jun 21 00:19:11 2019 +0200
+
+    ifproba2
+
+[33mcommit 814aab6dfae71bad96535721ded5ca64ca1a1635[m
+Author: Matt <schuldinerfanatic@gmail.com>
+Date:   Fri Jun 21 00:12:50 2019 +0200
+
+    floradiet
+
+[33mcommit 63c19817226dc035939c889a0992179f21b86e2f[m
+Author: Matt <schuldinerfanatic@gmail.com>
+Date:   Fri Jun 21 00:05:58 2019 +0200
+
+    Octofamily is on the way
+
+[33mcommit 8cc33f2c8eea438687f1ae8964114507f282bfc9[m
+Merge: 83c8a22 fa9e8d2
+Author: Matt <schuldinerfanatic@gmail.com>
+Date:   Thu Jun 20 23:57:23 2019 +0200
+
+    Merge branch 'master' of https://github.com/Marci96/gitTest
+
+[33mcommit fa9e8d2683e3c28e71f047c54c2e63c0b34719ed[m
+Author: Marci96 <51859765+Marci96@users.noreply.github.com>
+Date:   Thu Jun 20 23:49:40 2019 +0200
+
+    Initial commit
+
+[33mcommit 83c8a22e6ecd1a6704c8dfe1595e6b45f8ae0593[m
+Author: Matt <schuldinerfanatic@gmail.com>
+Date:   Thu Jun 20 23:00:43 2019 +0200
+
+    Add test file to local repo

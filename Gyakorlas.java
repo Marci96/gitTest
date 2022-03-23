@@ -36,7 +36,7 @@ public class Gyakorlas {
 				}
 		 	}
 		 	
-		 	//System.out.println(smallest);
+		 	System.out.println(smallest);
 
 
             
